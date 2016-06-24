@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1466762191 source:/home/khg/algorithmEX/coin_rand/main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
