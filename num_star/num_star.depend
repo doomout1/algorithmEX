@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466749299 source:/home/khg/algorithmEX/num_star/main.c
+	<stdio.h>
+	<stdlib.h>
+
