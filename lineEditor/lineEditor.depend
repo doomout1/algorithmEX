@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467271185 source:/home/khg/algorithmEX/lineEditor/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
