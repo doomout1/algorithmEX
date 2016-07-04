@@ -17,6 +17,7 @@ int main()
         if(num[i] == 0)
         {
             printf(" %d", i);
+            //i의 배수는 1로 변경해서 지운다.
             for(j=2*i; j<=PRIME_MAX; j+=i)
                 num[j] = 1;
         }
